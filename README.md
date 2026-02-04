@@ -30,7 +30,7 @@ The project was executed entirely within **Microsoft Excel**, utilizing advanced
 
 ## Results & Key Insights
 
-![BMW Sales Dashboard Analysis]()
+![BMW Sales Dashboard Analysis](https://github.com/KevDes22/Project-Report-BMW-Global-Sales-Performance-Analysis-2010-2024-/blob/main/Capture1.PNG)
 
 * **Financial Overview:**  Total revenue stands at approximately **$3.75 Billion**, with an average sales volume of **5,068 units** per category.
 * **Transmission Preferences:** Interestingly, **Manual transmissions** outpace Automatics in total revenue, suggesting a strong enthusiast market or specific regional dominance where manual driving remains the standard.
